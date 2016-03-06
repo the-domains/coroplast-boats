@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Coroplast Boats]]></title>
+        <description><![CDATA[Coroplast Boats]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 16:43:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a35ebb70-6e68-4bf0-95e6-0e6b9811dbca.jpg">]]></description>
+            <link>undefinedfca3888b-6d8d-4e83-ac48-d82049254533/index.html</link>
+            <guid isPermaLink="false">fca3888b-6d8d-4e83-ac48-d82049254533</guid>
+            <pubDate>Sun, 06 Mar 2016 16:42:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
